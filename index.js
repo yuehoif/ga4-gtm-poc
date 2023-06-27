@@ -7,7 +7,7 @@ btn.addEventListener('click', () => {
         event: "GTMEvent",
         eventCategory: "User Authentication",
         eventAction: "Click",
-        eventLabel: "ExpressLogin_EN_Email"
+        eventLabel: "Test Event"
     })
-    console.log('push event')
+    console.log('push event!!!')
 })
